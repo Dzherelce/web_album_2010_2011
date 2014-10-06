@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:A795CB40-33A3-47B2-A08A-AD2631B0D198</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-06-30T23:53:10+09:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:A1A754A6-4AEB-4783-A0C7-7CD505A3457A</id>
+  <title>Навчальний рік 2010-2011</title>
+  <title xmlns="urn:iweb:">Навчальний рік 2010-2011</title>
+  <in-navbar xmlns="urn:iweb:">A1A754A6-4AEB-4783-A0C7-7CD505A3457A</in-navbar>
+  <link rel="alternate" href="Navcalnij_rik_2010-2011.html"/>
+  <updated>2012-06-30T23:53:10.001+09:00</updated>
+  <content>Навчальний рік 2010-2011</content>
+ </entry>
+</feed>
